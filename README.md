@@ -29,13 +29,10 @@ While the folder contains the essential elements for a front-end implementation,
 The current setup also leaves room for scalability and future enhancements. Potential features that could be added include video lectures, quizzes, live sessions, and progress tracking dashboards. A mobile app could also be developed to complement the web platform, offering users the flexibility to learn on the go. AI-powered recommendations could personalize the user experience by suggesting courses based on individual preferences and learning patterns.
 
 In summary, this folder provides a well-structured and visually appealing front-end foundation for an e-learning platform. It effectively combines HTML for structure, CSS for styling, JavaScript for interactivity, and images for visual enhancement. While it lays a strong groundwork, integrating back-end technologies and advanced features would transform it into a fully functional and scalable e-learning solution capable of meeting diverse educational needs.
-![Screenshot 2025-01-11 093009](https://github.com/user-attachments/assets/a33bf4f0-97dc-428b-80f1-2b270b608812)
-![Screenshot 2025-01-11 093025](https://github.com/user-attachments/assets/c3702c60-257f-47c1-b214-9fb408b86e4d)
-![Screenshot 2025-01-11 093020](https://github.com/user-attachments/assets/a0c0a2ad-fcc4-4b6b-b3c5-675cce4d49a1)
 
-![Screenshot 2025-01-11 093030](https://github.com/user-attachments/assets/90afb403-43a3-431d-9abf-75c2a339e82a)
-![Screenshot 2025-01-11 093035](https://github.com/user-attachments/assets/4c7986ba-1c59-40e0-aaf5-9d706b7cd99b)
+![T4](https://github.com/user-attachments/assets/fe8b283c-935f-4df0-bc59-b2d4961e2974)
+![T4-4](https://github.com/user-attachments/assets/64659b85-a550-4e60-ae95-a425ad84be5c)
 
-![Screenshot 2025-01-11 093054](https://github.com/user-attachments/assets/f0390143-2f9b-43be-bbbf-1377325729f8)
-![Screenshot 2025-01-11 093043](https://github.com/user-attachments/assets/ce2c90b2-2339-4bfc-a538-1b8f7bffb361)
-
+![T4-3](https://github.com/user-attachments/assets/a55d96af-8487-4d42-8681-6dadbeecbede)
+![T4-2](https://github.com/user-attachments/assets/7c1d8e89-1e04-41d2-a119-af2dcfc607cf)
+![T4-1](https://github.com/user-attachments/assets/fedbb6d5-4245-4fed-8a84-d60236c9f80c)
