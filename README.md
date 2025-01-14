@@ -3,13 +3,17 @@
 **COMPANY**: CODTECH IT SOLUTIONS
 
 **NAME**: SHUBHAM GHANSHYAM KHANSARE
+
 **INTERN ID**: CT08INZ
+
 **DOMAIN**: FRONTEND WEB DEVELOPMENT
+
 **BATCH DURATION**:  December 30th, 2024 to January 30th, 2025
+
 **MENTOR NAME**: NEELA SANTHOSH
 
 
-#DESCRIPTION
+# DESCRIPTION
 The provided folder is a complete front-end setup for an **E-Learning Platform**, designed to deliver an engaging and user-friendly experience for online learners. It contains essential files and resources, including HTML, CSS, JavaScript, and images, all working together to create a dynamic and visually appealing web platform. The structure of the folder suggests that it is focused on presenting a responsive, interactive, and easy-to-navigate user interface while laying the groundwork for further integration of back-end functionalities.
 
 The folder includes multiple HTML files that serve as the backbone of the platform. The `index.html` file acts as the homepage, welcoming users with a clean layout that highlights the platform's core features. This page is likely designed to showcase top courses, promotional offers, and call-to-action buttons such as "Sign Up" and "Browse Courses." Its user-friendly interface ensures that users can easily navigate to other sections of the platform. The `about.html` file offers information about the platform's vision, mission, and objectives. This page plays a crucial role in establishing trust and credibility by sharing the platform's achievements, goals, and unique selling points.
