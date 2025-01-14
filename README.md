@@ -30,7 +30,7 @@ While the folder contains the essential elements for a front-end implementation,
 The current setup also leaves room for scalability and future enhancements. Potential features that could be added include video lectures, quizzes, live sessions, and progress tracking dashboards. A mobile app could also be developed to complement the web platform, offering users the flexibility to learn on the go. AI-powered recommendations could personalize the user experience by suggesting courses based on individual preferences and learning patterns.
 
 In summary, this folder provides a well-structured and visually appealing front-end foundation for an e-learning platform. It effectively combines HTML for structure, CSS for styling, JavaScript for interactivity, and images for visual enhancement. While it lays a strong groundwork, integrating back-end technologies and advanced features would transform it into a fully functional and scalable e-learning solution capable of meeting diverse educational needs.
-![Screenshot 2025-01-11 093009](https://github.com/user-attachments/assets/2c9a3d5e-2325-44c0-86df-2151c2fd6dcf)
+
 ![Screenshot 2025-01-11 093035](https://github.com/user-attachments/assets/4c7986ba-1c59-40e0-aaf5-9d706b7cd99b)
 ![Screenshot 2025-01-11 093030](https://github.com/user-attachments/assets/90afb403-43a3-431d-9abf-75c2a339e82a)
 ![Screenshot 2025-01-11 093025](https://github.com/user-attachments/assets/c3702c60-257f-47c1-b214-9fb408b86e4d)
